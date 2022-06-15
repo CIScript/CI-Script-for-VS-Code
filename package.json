@@ -1,0 +1,13 @@
+{
+	"name": "ci-script",
+	"displayName": "CI-Script",
+	"description": "Basic language support for CI-Script",
+	"version": "1.0.0",
+	"publisher": "CI-Script",
+	"icon": "./icon.extension.png",
+	"license": "MIT",
+	"engines": {"vscode": "^1.63.1"},
+	"keywords": [],
+	"categories": [],
+	"contributes": {}
+}

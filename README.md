@@ -1,1 +1,1 @@
-# CI-Script-for-VS-Code
+# README on extension site
